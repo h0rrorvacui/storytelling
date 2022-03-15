@@ -1,6 +1,6 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto ECOnejo (template): 
 
 Nombre del Equipo: 
 
