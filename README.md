@@ -1,20 +1,20 @@
 
 
-# Proyecto ECOnejo (template): 
+# Proyecto ECOnejo adventures: 
 
-Nombre del Equipo: 
+Nombre del Equipo: Green Beauties
 
-Proyecto (código): 
+Proyecto (código): Buena pregunta
 
 
 ## Resumen
-
+En un mundo rural en el que clima está cambiando, nuestros amigos los animales están viendo cómo sus vidas se ven afectadas a consecuencia de una vida de lujos innecesarios. Para más inri, estos cambios van a peor, y parecen llevar a una situación feota e irreversible. ¿Serán capaces de frenar la catástrofe?
 
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: ECOnejo (García (Márquez))
 
 
 ### Historia
@@ -45,9 +45,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :woman: Elena
+- :woman: Alberto
+- :woman: Mari 
+- 👩‍🦲: Irene
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
@@ -55,7 +56,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 
-Febrero, 202X
+Marzoo, 2022
 
 Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md). 
 Proyectos seleccionados de  [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
